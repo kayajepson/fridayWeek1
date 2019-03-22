@@ -1,4 +1,5 @@
 # _PORTFOLIO LANDING PAGE_
+View live version here: https://kayajepson.github.io/fridayWeek1/
 
 #### _simple portfolio landing page, 03.22.2019_
 
