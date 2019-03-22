@@ -1,6 +1,6 @@
-/* body {
-  background-color: #223427;
-}  */
+body {
+  background-color: #24302D;
+}
 
 h1.name {
   /* color: #FFFFFF; */
@@ -15,7 +15,7 @@ body, html {
   background-image: url("../img/flowers.jpg");
 
   /* Half height */
-  height: 50%;
+  height: 25%;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -23,18 +23,19 @@ body, html {
   background-size: cover;
 }
 
-.right {
+/* .right {
   float: right;
 }
 
 .left {
   float: left;
-}
+} */
 
 /* .green {
   background-color: #E1F4E0;
 } */
 
+/* custom css for panel-info */
 .panel-info {
   border-color: #6c8e82;
 }
@@ -52,4 +53,7 @@ body, html {
 }
 .panel-info > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #bce8f1;
+}
+.textLeft {
+  color: white;
 }
