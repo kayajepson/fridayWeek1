@@ -1,17 +1,18 @@
 /* body {
   background-color: #223427;
-} */
+}  */
 
-/* h1.name {
-  color: #FFFFFF;
-} */
+h1.name {
+  /* color: #FFFFFF; */
+  float: right;
+}
 
 body, html {
   height: 100%;
 }
 .bg {
   /* The image used */
-  background-image: url("../img/flower.jpg");
+  background-image: url("../img/flowers.jpg");
 
   /* Half height */
   height: 50%;
