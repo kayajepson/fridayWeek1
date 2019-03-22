@@ -1,10 +1,13 @@
 body {
   background-color: #24302D;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 h1.name {
   color: #FFFFFF;
   float: right;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 80px;
 }
 
 .projLink{
@@ -16,10 +19,13 @@ h1.name {
 }
 .design {
   color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 p.name {
   color: #FFFFFF;
+  font-size: 16px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .bioImg {
