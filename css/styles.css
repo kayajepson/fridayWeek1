@@ -7,6 +7,13 @@ h1.name {
   float: right;
 }
 
+.graphic {
+  color: white;
+}
+.design {
+  color: white;
+}
+
 p.name {
   color: #FFFFFF;
 }
@@ -24,7 +31,7 @@ body, html {
   opacity: 0.75;
 
   /* Half height */
-  height: 25%;
+  height: 50%;
 
   /* Center and scale the image nicely */
   background-position: center;
