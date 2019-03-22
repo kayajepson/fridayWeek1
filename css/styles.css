@@ -7,6 +7,10 @@ h1.name {
   float: right;
 }
 
+.bioImg {
+  padding-bottom: 25px;
+}
+
 body, html {
   height: 100%;
 }
@@ -56,4 +60,3 @@ body, html {
 }
 .textLeft {
   color: white;
-}
