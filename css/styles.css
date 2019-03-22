@@ -22,3 +22,11 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
