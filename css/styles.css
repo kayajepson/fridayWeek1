@@ -3,8 +3,12 @@ body {
 }
 
 h1.name {
-  /* color: #FFFFFF; */
+  color: #FFFFFF;
   float: right;
+}
+
+p.name {
+  color: #FFFFFF;
 }
 
 .bioImg {
@@ -27,16 +31,12 @@ body, html {
   background-size: cover;
 }
 
-/* .right {
+.right {
   float: right;
 }
 
 .left {
   float: left;
-} */
-
-/* .green {
-  background-color: #E1F4E0;
 } */
 
 /* custom css for panel-info */
@@ -64,7 +64,7 @@ body, html {
 
 /* custom css for progress-bar-info */
 .progress-bar-info {
-  background-color: #272B57; 
+  background-color: #272B57;
 }
 
 .progress-bar .progress-bar-info .progress-bar-striped {
@@ -101,4 +101,8 @@ body, html {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
   background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
   background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+}
+
+.jumbotron{
+  background-color: #375A4B;
 }
