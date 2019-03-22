@@ -30,3 +30,26 @@ body, html {
 .left {
   float: left;
 }
+
+/* .green {
+  background-color: #E1F4E0;
+} */
+
+.panel-info {
+  border-color: #6c8e82;
+}
+.panel-info > .panel-heading {
+  color: #b8d1c8;
+  background-color: #43564C;
+  border-color: #bce8f1;
+}
+.panel-info > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #bce8f1;
+}
+.panel-info > .panel-heading .badge {
+  color: #d9edf7;
+  background-color: #31708f;
+}
+.panel-info > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #bce8f1;
+}
