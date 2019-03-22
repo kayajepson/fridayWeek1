@@ -40,6 +40,10 @@ body, html {
 
 }
 
+.justify {
+  text-align: justify;
+}
+
 
 
 .right {
@@ -71,6 +75,10 @@ body, html {
 }
 .textLeft {
   color: white;
+}
+
+.leftText {
+  text-align: right;
 }
 
 /* custom css for progress-bar-info */

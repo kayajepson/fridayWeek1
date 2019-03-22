@@ -10,8 +10,8 @@ _Portfolio landing page detailing current projects, bio, work experience, skills
 
 ## Setup/Installation Requirements
 
-* _Clone from https://github.com/kayajepson/fridayWeek1 _
-* _Open index.html in browser of choice_
+* Clone from https://github.com/kayajepson/fridayWeek1
+* Open index.html in browser of choice
 
 ## Known Bugs
 
